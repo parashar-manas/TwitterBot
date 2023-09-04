@@ -9,7 +9,3 @@ Key Features:
 5. User Interaction Tracking: The bot keeps track of user interactions, allowing you to analyze and gain insights into user engagement, popular topics, and frequently asked questions. This information can be used to improve the bot's performance over time.
 6. Error Handling and Moderation: The bot includes error handling mechanisms to gracefully handle exceptions, network issues, and API limitations. Additionally, it implements moderation features to ensure compliance with Twitter guidelines and prevent inappropriate or offensive content.
 7. Deployment and Hosting: The repository provides guidelines and scripts for deploying the Twitter bot on popular cloud platforms such as AWS, Google Cloud, or Azure. It also supports Docker for easy containerization and scalability.
-
-Get started with your own ChatGPT-powered Twitter bot and enhance user engagement and interaction on the Twitter platform. Feel free to explore, modify, and improve the codebase to suit your specific requirements.
-
-Note: Due to the proprietary nature of the ChatGPT model, this repository only includes the necessary code to integrate and utilize the model. The model itself must be obtained separately from OpenAI.
